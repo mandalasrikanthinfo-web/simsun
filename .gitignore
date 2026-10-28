@@ -1,0 +1,8 @@
+node_modules
+dist
+dist-single
+backend/.env
+backend/*.db
+__pycache__
+dist-pages
+.wrangler

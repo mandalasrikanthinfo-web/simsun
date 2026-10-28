@@ -1,0 +1,10 @@
+{
+  // Cloudflare Worker that serves the built React site from ./dist
+  "name": "simsun",
+  "compatibility_date": "2026-10-01",
+  "build": { "command": "npm run build" },
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}
