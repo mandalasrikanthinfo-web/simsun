@@ -2,8 +2,8 @@
 export const SITE = {
   company: 'SIMSUN Technologies',
   // Registration requests are emailed here
-  notifyEmail: 'mandalasrikanthinfo@gmail.com',
-  phone: '+91 00000 00000',          // TODO: your business phone
+  notifyEmail: 'simsuntechnologies@gmail.com',
+  phone: '+91 73820 29329',
   city: 'Visakhapatnam, Andhra Pradesh, India', // TODO: your office address
   // How the registration form sends mail:
   //  'formsubmit' -> works on GitHub Pages / Cloudflare Pages with no server (first request sends you an activation email)
